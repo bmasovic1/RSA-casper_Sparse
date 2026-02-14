@@ -17,7 +17,7 @@ casper_Sparse.exe M K N sparsity(%)
 ## Dimenzije matrica:
 A je sparse matrica dimenzija M x K  
 B je dense matrica dimenzija K x N  
-(rezultat mnozenja je C dimenzija M x N)
+Rezultat mnozenja je C dimenzija M x N
 
 ## Primjer:
 ```bash
